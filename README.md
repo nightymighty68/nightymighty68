@@ -29,7 +29,8 @@
 </p>
 </div>
 
-<img src="https://i.pinimg.com/originals/92/ac/36/92ac3696dee29e29e147826267abf6e8.gif" width="100%" />
+<img src="https://i.pinimg.com/originals/92/ac/36/92ac3696dee29e29e147826267abf6e8.gif" width="600" height="200" />
+
 
 
 
