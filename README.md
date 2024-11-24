@@ -29,7 +29,7 @@
 </p>
 </div>
 
-<img src="https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014130/BH_banner_GIF.2022-03-28_14_46_14.gif" width="1080" height="200" />
+<img src="https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014130/BH_banner_GIF.2022-03-28_14_46_14.gif" />
 
 
 
