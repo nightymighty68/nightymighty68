@@ -29,7 +29,8 @@
 </p>
 </div>
 
-<div align="center" style="background: url(src="https://i.pinimg.com/originals/92/ac/36/92ac3696dee29e29e147826267abf6e8.gif"); color: white; padding: 40px; background-size: cover;">
+<img src="https://i.pinimg.com/originals/92/ac/36/92ac3696dee29e29e147826267abf6e8.gif" width="100%" />
+
 
 
 
